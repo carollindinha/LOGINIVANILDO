@@ -1,0 +1,60 @@
+body{
+    background-color: brown;
+}
+.titulo1{
+    color: bisque;
+    font-size: 60px;
+    text-align: center;
+}
+
+.right-login{
+    background-color: #dfb3b9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px wheat;
+    max-width: 400px;
+    width: 100%;
+    margin-right: 180px;  
+}
+.login{
+    margin-bottom: 20px;
+}
+.login label{
+    display: block;
+    margin-bottom: 5px;
+    
+}
+.login input{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid rgb(94, 21, 33);
+    border-radius: 4px;
+}
+.senha{
+    margin-bottom: 20px ;
+}
+.senha label{
+    display: block;
+    margin-bottom: 5px;
+}
+.senha input{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid rgb(94, 21, 33);
+    border-radius: 4px;
+}
+.botao{
+    width: 100%;
+    background-color:  #53121b;
+    height: 50px;
+    color: antiquewhite;
+}
+.titulo3{
+    text-align: center;
+    color: bisque;
+    font-size: 30px;
+}
+.right-login{
+    margin-top: 100px;
+   margin-left: 400px;
+ }
